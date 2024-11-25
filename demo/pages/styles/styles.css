@@ -1,0 +1,11 @@
+/* styles/styles.css */
+
+.responsive-section {
+    min-width: 10rem; /* Minimum width for smaller screens */
+    max-width: 12rem; /* Maximum width for larger screens */
+  }
+  
+  body {
+    font-family: Arial, sans-serif; /* General font for the project */
+  }
+  
